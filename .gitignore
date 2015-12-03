@@ -1,2 +1,6 @@
 *.exe
 *.sdf
+*.user
+*.aps
+*.rc
+*.suo
